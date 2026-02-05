@@ -1,12 +1,12 @@
-<h2 align="left">Hello World 👋! I'm Ícaro Martins, a Full Stack Developer from Brazil</h2>
-
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Icaro%20Martins%20&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=twinkling&desc=Dev%20%7C%20Junior%20%7C%20Creative%20Mind&descSize=30&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
 <p align="left">Full Stack Developer focused on building modern, scalable, and user-friendly web applications. <br>Always learning new technologies and improving my skills through real-world projects.</p>
 
 ###
 
-<img align="right" height="170" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
 
 ###
 
@@ -97,7 +97,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
